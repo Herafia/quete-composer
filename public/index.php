@@ -8,7 +8,7 @@ require '../vendor/autoload.php';
 $objet = new App\Wcs\Hello();
 
 
-// Retourner Hello World
+// Retourner Hello World !!
 
 echo $objet->talk();
 
