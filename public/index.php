@@ -13,5 +13,10 @@ $objet = new App\Wcs\Hello();
 echo $objet->talk();
 
 
+$objet2 = new HelloWorld\SayHello;
+
+echo $objet2->world();
+
+
 
   ?>
